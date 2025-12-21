@@ -1,0 +1,13 @@
+# Ambiente virtual
+venv/
+
+# Variáveis sensíveis
+.env
+.env.*
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Arquivos de texto (tokens, anotações locais)
+*.txt
